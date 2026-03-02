@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: ACL245 - Portfolio
 permalink: /projects/
 ---
 
