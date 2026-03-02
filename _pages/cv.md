@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACL245 - Curriculum Vitae
+title: CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
