@@ -2,7 +2,7 @@
 title: "Macadamia Nutcracker Design (HW4 Additional 2) -- ACL245"
 excerpt: "Lever-based nutcracker sized for an average user and optionally actuated with a small linear actuator."
 collection: projects
-image: assets/images/nutcracker-design.png
+image: /assets/images/nutcracker-design.png
 ---
 
 ## Problem Statement (Find)
