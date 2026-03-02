@@ -28,7 +28,7 @@ Design a feasible, useful nutcracker and determine key dimensions so an average 
 
 
 ## Diagram
-![Nutcracker design](/assets/images/nutcracker-design.png)
+![Nutcracker diagram]({{ "/assets/images/nutcracker-design.png" | relative_url }})
 
 ## Usability Discussion
 - The selected grip force (33 kg) is about **2/3 of average max**, making the action achievable without full-effort squeezing.
@@ -38,7 +38,7 @@ Design a feasible, useful nutcracker and determine key dimensions so an average 
 ## Optional Actuation Concept (Linear Actuator)
 A compact linear actuator can replace the hand-applied grip force if it can supply ~**72 lbf** over ~**1.34 in** stroke (based on the stroke and force targets from the design). The IP65 Mini Linear Actuator meet these requirements; the most aligned variant of this actuator would have a 2-inch stroke and a 112-pound force capacity. (https://www.progressiveautomations.com/products/pa-01?variant=43088662364340)
 
-![Linear Actuator based nutcracker design ](/assets/images/LA-nutcracker-design.png)
+![Linear Actuator based nutcracker design]({{ "/assets/images/LA-nutcracker-design.png" | relative_url }})
 
 ## Credits / Sources
 - Macademia nut specifications: (https://doi.org/10.1007/s10071-007-0131-2)
